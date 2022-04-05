@@ -1,5 +1,15 @@
 # 👨🏽‍💻 Emiliano Rivas
-### Backend Developer and Passionate of Cybersecurity 👾 
+### Backend Developer and Cybersecurity Passionate 👾
+
+¡Hi there! Welcome to my GitHub 👋🏼
+
+I´m passionate about technology development and cybersecurity. I like to develop software that impacts society and at the same makes me grow. I´m governed by honesty, commitment and the desire to never stop learning.
+
+### Skills
+
+
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/iuricode/)
+
 
 <!--
 **EmilianoRivasMX/EmilianoRivasMX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
