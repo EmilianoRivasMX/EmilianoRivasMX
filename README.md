@@ -8,7 +8,10 @@ I´m passionate about technology development and cybersecurity. I like to develo
 ### Skills
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/iuricode/)
+### Languages
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoRivasMX=html&layout=compact=true&theme=default)](https://github.com/iuricode/)
+
+
 
 
 <!--
