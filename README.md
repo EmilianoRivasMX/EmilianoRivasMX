@@ -1,7 +1,7 @@
 # 👨🏽‍💻 Emiliano Rivas
 ### Backend Developer and Cybersecurity Passionate 👾
 
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)] 
+[![Instagram](style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)]
 (https://www.instagram.com/EmilianoRivasMX/)
 
 ¡Hi there! Welcome to my GitHub 👋🏼
