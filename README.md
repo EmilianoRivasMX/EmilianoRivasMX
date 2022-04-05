@@ -25,7 +25,3 @@ I´m passionate about technology development and cybersecurity. I like to develo
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
-
-
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoRivasMX&hide=html&layout=compact=true&theme=merko)](https://github.com/EmilianoRivasMX/)
