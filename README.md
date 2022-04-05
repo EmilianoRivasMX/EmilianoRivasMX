@@ -1,12 +1,12 @@
 # 👨🏽‍💻 Emiliano Rivas
 ### Backend Developer and Cybersecurity Passionate 👾
 
-[![Instagram](style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)]
-(https://www.instagram.com/EmilianoRivasMX/)
-
 ¡Hi there! Welcome to my GitHub 👋🏼
 
 I´m passionate about technology development and cybersecurity. I like to develop software that impacts society and at the same makes me grow. I´m governed by honesty, commitment and the desire to never stop learning.
+
+### Contact
+[![INSTAGRAM](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://instagram.com/EmilianoRivasMX)
 
 ### Skills
 
