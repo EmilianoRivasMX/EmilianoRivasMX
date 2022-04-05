@@ -1,6 +1,8 @@
 # 👨🏽‍💻 Emiliano Rivas
 ### Backend Developer and Cybersecurity Passionate 👾
 
+![image] (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+
 ¡Hi there! Welcome to my GitHub 👋🏼
 
 I´m passionate about technology development and cybersecurity. I like to develop software that impacts society and at the same makes me grow. I´m governed by honesty, commitment and the desire to never stop learning.
@@ -8,23 +10,4 @@ I´m passionate about technology development and cybersecurity. I like to develo
 ### Skills
 
 
-### Languages
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoRivasMX&hide=html&layout=compact=true&theme=merko)](https://github.com/EmilianoRivasMX/)
-
-
-
-
-<!--
-**EmilianoRivasMX/EmilianoRivasMX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
