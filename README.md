@@ -3,7 +3,7 @@
 
 <div>
 <p>¡Hi there! Welcome to my GitHub <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="23px"></p>
-<br />
+
 <img src="https://github.com/EmilianoRivasMX/EmilianoRivasMX/blob/main/computer.png" min-width="300px" max-width="300px" width="300px" align="right" />
 <p align="justify">
 I´m passionate about programming and cybersecurity. I like to develop software that impacts society and at the same makes me grow. I´m governed by honesty, commitment and the desire to **never stop learning**.</p>
