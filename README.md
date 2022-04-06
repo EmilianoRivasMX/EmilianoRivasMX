@@ -3,11 +3,10 @@
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="23px"> ¡Hi there! Welcome to my GitHub
 
-<div align="right">
-<div>I´m passionate about technology development and cybersecurity. I like to develop software that impacts society and at the same makes me grow. I´m   governed by honesty, commitment and the desire to never stop learning.
- </div>
-<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="200" height="250" />
+<div align="left" widht="50%">
+I´m passionate about technology development and cybersecurity. I like to develop software that impacts society and at the same makes me grow. I´m   governed by honesty, commitment and the desire to never stop learning.
 </div>
+<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="200" height="250" />
 
 ### Contact
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilianorivasmx/) [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EmilianoRivasMX) 
