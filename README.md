@@ -1,7 +1,7 @@
 # 👨🏽‍💻 Emiliano Rivas
 ### Backend Developer and Cybersecurity Passionate 👾
 
-¡Hi there! Welcome to my GitHub ![Hi](https://user-images.githubusercontent.com/44332756/161871734-9372b870-8190-4af2-9581-85f31e8f8335.gif)
+¡Hi there! Welcome to my GitHub <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 
 I´m passionate about technology development and cybersecurity. I like to develop software that impacts society and at the same makes me grow. I´m governed by honesty, commitment and the desire to never stop learning.
