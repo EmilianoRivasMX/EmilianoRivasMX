@@ -3,7 +3,9 @@
 
 ¡Hi there! Welcome to my GitHub <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="23px">
 
+<div widht="50%">
 I´m passionate about programming and cybersecurity. I like to develop software that impacts society and at the same makes me grow. I´m   governed by honesty, commitment and the desire to never stop learning.
+</div>
 
 <img src="https://github.com/EmilianoRivasMX/EmilianoRivasMX/blob/main/computer.png" width="250px">
 
