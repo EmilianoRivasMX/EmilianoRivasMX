@@ -8,8 +8,6 @@ I´m passionate about programming and cybersecurity. I like to develop software 
 
 <img src="https://github.com/EmilianoRivasMX/EmilianoRivasMX/blob/main/computer.png" min-width="300px" max-width="300px" width="300px" align="right" />
 
-<img src="ilus-code.svg"  alt="logo iuricode">
-
 ### Contact
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilianorivasmx/) [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EmilianoRivasMX) 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/EmilianoRivasMX) 
