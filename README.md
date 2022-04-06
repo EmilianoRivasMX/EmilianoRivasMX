@@ -4,8 +4,8 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="23px"> ¡Hi there! Welcome to my GitHub
 
 <div align="center">
-I´m passionate about technology development and cybersecurity. I like to develop software that impacts society and at the same makes me grow. I´m   governed by honesty, commitment and the desire to never stop learning.
-  
+<div>I´m passionate about technology development and cybersecurity. I like to develop software that impacts society and at the same makes me grow. I´m   governed by honesty, commitment and the desire to never stop learning.
+ </div>
 <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="200" height="250" />
 </div>
 
