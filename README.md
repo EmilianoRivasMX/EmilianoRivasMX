@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Emiliano Rivas
 ### Backend Developer and Cybersecurity Passionate 👾
-Hi there! Welcome to my GitHub <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="13px">
+Hi there! Welcome to my GitHub <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="3px">
 <div>
 <img src="https://github.com/EmilianoRivasMX/EmilianoRivasMX/blob/main/computer.png" min-width="300px" max-width="300px" width="300px" align="right" />
 <p align="justify">
