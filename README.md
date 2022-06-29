@@ -1,10 +1,10 @@
 # 👨🏽‍💻 Emiliano Rivas
-### Backend Developer and Cybersecurity Passionate 👾
+### Software Developer and Cybersecurity Passionate 👾
 Hi there! Welcome to my GitHub
 <div>
 <img src="https://github.com/EmilianoRivasMX/EmilianoRivasMX/blob/main/computer.png" min-width="300px" max-width="300px" width="300px" align="right" />
 <p align="justify">
-I am passionate about programming and cybersecurity. I like to develop software that impacts society and at the same let me grow my knowledge. I am governed by honesty, commitment and the desire to <strong>never stop learning</strong>.</p>
+I am passionate about programming and cybersecurity. I like to develop software that impacts into society and at the same let me learn something new. I am governed by honesty, commitment and the desire to <strong>never stop learning</strong>.</p>
 </div>
 
 ### Contact
