@@ -1,5 +1,5 @@
 # 👨🏽‍💻 Emiliano Rivas
-### Software Developer and Cybersecurity Passionate 👾
+### Software Developer and Cybersecurity Trainee 👾
 Hi there! Welcome to my GitHub
 <div>
 <img src="https://github.com/EmilianoRivasMX/EmilianoRivasMX/blob/main/computer.png" min-width="300px" max-width="300px" width="300px" align="right" />
