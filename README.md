@@ -25,3 +25,6 @@ I am passionate about programming, AI and cybersecurity. I like to develop softw
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+
+### Activity
+<img width='200' src="https://github-readme-activity-graph.vercel.app/graph?username=alexandresanlim&theme=tokyo-night" />
