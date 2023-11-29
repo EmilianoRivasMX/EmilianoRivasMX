@@ -27,4 +27,4 @@ I am passionate about programming, AI and cybersecurity. I like to develop softw
 ![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Activity
-<img width='600' src="https://github-readme-activity-graph.vercel.app/graph?username=EmilianoRivasMX&theme=tokyo-night" /> <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoRivasMX" />
+<img width='600' src="https://github-readme-activity-graph.vercel.app/graph?username=EmilianoRivasMX&theme=tokyo-night" /> <img width='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoRivasMX" />
