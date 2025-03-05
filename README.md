@@ -21,10 +21,6 @@ I am passionate about programming, AI and cybersecurity. I like to develop softw
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## Frameworks
-![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![FASTAPI](https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastapi&logoColor=61DAFB)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -33,5 +29,10 @@ I am passionate about programming, AI and cybersecurity. I like to develop softw
 ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
+
+### Frameworks
+![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![FASTAPI](https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastapi&logoColor=61DAFB)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ### Activity
 <img width='600' src="https://github-readme-activity-graph.vercel.app/graph?username=EmilianoRivasMX&theme=tokyo-night" /> <img width='220' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoRivasMX&theme=tokyonight"/>
