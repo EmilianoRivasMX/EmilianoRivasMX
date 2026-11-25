@@ -15,7 +15,6 @@ Currently focused on cloud-native engineering on <strong>Google Cloud Platform (
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilianorivasmx/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emilianorivasmx@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@emilianorivasmx)
 [![Portfolio](https://img.shields.io/badge/Links-1E293B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/emilianorivasmx)
 
